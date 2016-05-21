@@ -1,0 +1,24 @@
+{
+  "name": "bsh-typings",
+  "version": "0.0.1",
+  "description": "Typings for BSH",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.1.19",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranzZemen/bsh-typings.git"
+  },
+  "author": "Franz Zemen <franzzemen@gmail.com> (https://www.linkedin.com/pub/franz-zemen/0/2b5/105)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranzZemen/bsh-typings/issues"
+  },
+  "homepage": "https://github.com/FranzZemen/bsh-typings#readme"
+}
